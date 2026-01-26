@@ -18,7 +18,7 @@ Having trouble with AirFetch? Here are solutions to common connection and sync i
 ### Connection timeouts or fails immediately?
 *   **Firewall & VPN**:
     *   Disable VPNs temporarily to rule out routing issues.
-    *   Check that AirFetch is listed in your mac firewall settings.
+    *   Check that AirFetch is listed in your mac firewall settings + allow if prompted.
 *   **Conflicting Software**: Ensure **Sony Imaging Edge Desktop**, **Capture One**, or **Lightroom** are **completely closed**. They often lock the camera connection exclusively.
 *   **Camera Sleep**: Tap the shutter button to wake the camera up before connecting.
 
