@@ -58,8 +58,7 @@ Detection and transfers are powered by the **official Sony Camera Remote SDK**, 
 Encountering connection issues? Read our [**Troubleshooting Guide**](troubleshooting/TROUBLESHOOTING.md) for detailed solutions regarding firewalls, router settings, and camera configurations.
 
 ### License
-AirFetch is under a commercial license, but distributed free for both personal and professional use.
-See [LICENSE](LICENSE) for details.
+AirFetch is free for personal and professional use. See [LICENSE](LICENSE) for full terms.
 
 ---
 > **Note**: This repository serves only as the public hub for AirFetch releases, issue tracking, and documentation.
