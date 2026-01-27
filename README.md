@@ -26,6 +26,10 @@ AirFetch currently supports **Sony cameras** capable of "PC Remote" functionalit
 
 Detection and transfers are powered by the **official Sony Camera Remote SDK**, ensuring compatibility with:
 
+**Alpha Series**: A1, A9 II/III, A7R IV+/V, A7S III, A7 IV, A7C/II/CR, A6700
+**Cinema Line**: The FX series (FX3, FX30, FX6) and FR7
+**Vlog/Compact**: ZV-E1, ZV-E10 II, RX0 II
+
 ## Downloads
 
 - **Supported platforms:** macOS 13.0 or later (Apple Silicon)
