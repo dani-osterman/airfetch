@@ -6,7 +6,6 @@
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/goodkat/airfetch-gh/releases)
 
-
 ### Support development
 
 Consider sponsoring AirFetch. Contributions help us maintain the project and develop compatibility for other camera manufacturers (Canon, Nikon, Fuji, Panasonic).
@@ -20,8 +19,6 @@ Consider sponsoring AirFetch. Contributions help us maintain the project and dev
 | **Reliability** | **Wireless Syncing** | **Native macOS Design** |
 | Stable pairing and file transfer. Native compatibility for the latest **Sony Alpha** cameras. | Automatic detection and **Smart Sync** (transfers new files only). Runs silently in the background. | Built with **Swift** and **SwiftUI**. A lightweight menu bar utility that fits the ecosystem. |
 
-> [!NOTE]
-> This repository serves only as the public hub for AirFetch releases, issue tracking, and documentation.
 
 ## Supported Cameras
 
