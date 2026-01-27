@@ -4,7 +4,6 @@
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/goodkat/airfetch-gh/releases)
 
-> **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
 
 ### Support development
 
@@ -12,18 +11,19 @@ If you find AirFetch useful, consider supporting development on GitHub Sponsors 
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-brightgreen?style=flat&logo=github)](https://github.com/sponsors/dani-osterman)
 
+> **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
+
 ## Why AirFetch?
 
-### 🚀 Professional Reliability
-AirFetch is built on a modular architecture designed to support multiple camera systems in the future. Currently, it provides native compatibility, stable pairing, and support for the latest Sony alpha cameras.
+| <img src="https://img.icons8.com/fluency/96/server.png" width="50" /> | <img src="https://img.icons8.com/fluency/96/wifi-router.png" width="50" /> | <img src="https://img.icons8.com/fluency/96/mac-os.png" width="50" /> |
+| :--- | :--- | :--- |
+| **Professional Reliability** | **Wireless Syncing** | **Native macOS Design** |
+| Modular architecture with stable pairing. Native compatibility for the latest **Sony Alpha** cameras. | Automatic network detection and incremental sync. Saves bandwidth by only transferring new files. | Built with **Swift** and **SwiftUI**. Lightweight, fast, and lives quietly in your menu bar. |
 
-### ⚡ Wireless syncing
-Forget cables. AirFetch automatically detects your camera on the network and backs up your shots with ease.
-- **Smart Incremental Sync**: Only transfers new files, saving time and bandwidth.
-- **Background Operation**: Lives quietly in your menu bar until you need it.
+<br>
 
-### 📷 Native macOS Design
-Built efficiently with Swift and SwiftUI, AirFetch feels like a part of the operating system—lightweight, fast, and beautiful.
+### Tech Stack
+![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=flat-square&logo=swift) ![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square&logo=apple)
 
 ## Supported Cameras
 
