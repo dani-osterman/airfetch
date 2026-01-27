@@ -2,9 +2,15 @@
 
 **AirFetch** is a macOS menu bar utility for wireless file syncing from camera to your mac. Currently exclusively supporting **Sony cameras**, it delivers reliability, ease-of-use, and seamless integration into your photography workflow.
 
+[![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/goodkat/airfetch-gh/releases)
+
 > **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/dani-osterman/airfetch/releases)
+### Support development
+
+If you find AirFetch useful, consider supporting development on GitHub Sponsors — contributions help us maintain compatibility across camera systems and fund future improvements. The app contains no ads.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-brightgreen?style=flat&logo=github)](https://github.com/sponsors/dani-osterman)
 
 ## Why AirFetch?
 
