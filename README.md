@@ -13,17 +13,12 @@ If you find AirFetch useful, consider supporting development on GitHub Sponsors 
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-brightgreen?style=flat&logo=github)](https://github.com/sponsors/dani-osterman)
 
-## Why AirFetch?
+### Why AirFetch?
 
-| <img src="assets/diamond.gif" width="48"> | <img src="assets/wifi.gif" width="48"> | <img src="assets/laptop.gif" width="48"> |
+| <img src="assets/diamond.svg" width="64"> | <img src="assets/wifi.svg" width="64"> | <img src="assets/apple.svg" width="64"> |
 | :--- | :--- | :--- |
 | **Reliability** | **Wireless Syncing** | **Native macOS Design** |
 | Modular architecture with stable pairing. Native compatibility for the latest **Sony Alpha** cameras. | Automatic detection and **Smart Sync** (transfers new files only). Runs silently in the background. | Built with **Swift** and **SwiftUI**. A lightweight menu bar utility that fits the ecosystem. |
-
-<br>
-
-### Tech Stack
-![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=flat-square&logo=swift) ![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square&logo=apple)
 
 ## Supported Cameras
 
