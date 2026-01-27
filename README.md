@@ -1,26 +1,33 @@
 # AirFetch
 
-**AirFetch** is a macOS menu bar app for wirelessly syncing photos from Sony cameras. It uses a custom implementation of PTP-IP to transfer files quickly and efficiently without cables.
+**AirFetch** is the professional macOS menu bar utility for wireless file syncing. Currently exclusively supporting **Sony cameras**, it delivers reliability, ease-of-use, and seamless integration into your photography workflow.
 
-> **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation. The core application logic resides in a separate private repository.
+> **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
 
-## Features
+## Why AirFetch?
 
-- **Automatic Discovery**: Instantly finds Sony cameras on your network.
-- **Smart Sync**: Incrementally backs up your files, skipping data you've already transferred.
-- **Wireless**: Works over standard WiFi using PTP-IP.
-- **Native macOS Experience**: Lives in your menu bar, designed with SwiftUI.
+### 🚀 Professional Reliability
+AirFetch is built on a modular architecture designed to support multiple camera systems in the future. Currently, it provides native compatibility, stable pairing, and support for the latest Sony alpha cameras.
+
+### ⚡ Wireless syncing
+Forget cables. AirFetch automatically detects your camera on the network and backs up your shots with ease.
+- **Smart Incremental Sync**: Only transfers new files, saving time and bandwidth.
+- **Background Operation**: Lives quietly in your menu bar until you need it.
+- **Security-Scoped Storage**: Robust macOS permission handling ensures your data goes exactly where you want it.
+
+### 📷 Native macOS Design
+Built efficiently with Swift and SwiftUI, AirFetch feels like a part of the operating system—lightweight, fast, and beautiful.
 
 ## Supported Cameras
 
-Currently, AirFetch is optimized for **Sony cameras** with WiFi capability (PC Remote function).
+AirFetch currently supports **Sony cameras** capable of "PC Remote" functionality via WiFi. 
 
-Supported models include:
-- Sony Alpha series (A7, A9, A6xxx, etc.)
-- Sony RX series
-- Other Sony models supporting the "PC Remote" connection method.
+Detection and transfers are powered by the **official Sony Camera Remote SDK**, ensuring compatibility with:
 
-*The app is built with an extensible architecture, allowing for potential support of other camera manufacturers in the future.*
+- **Alpha Series**: A1, A9 III, A7R V, A7 IV, A7S III
+- **Cinema Line**: FX3, FX30
+- **Vlog Series**: ZV-E1, ZV-E10
+- **RX Series**: RX100 VII, RX0 II
 
 ## Downloads
 
@@ -28,35 +35,32 @@ Support for Apple Silicon macOS.
 
 [**Download Latest Release**](https://github.com/goodkat/airfetch-gh/releases)
 
+---
+
 ## Quick Start
 
-1.  **Prepare your Camera**:
-    *   Go to `Menu` → `Network` → `Wi-Fi` (or `Connect`).
-    *   Enable **PC Remote** (sometimes called **Send to Computer** or **Ctrl with Smartphone/PC** depending on the model).
-    *   Connect your camera to the same WiFi network as your Mac (Infrastructure mode) or connect your Mac to the camera's hotspot (Access Point mode).
-2.  **Run AirFetch**:
-    *   Launch the app from your Applications folder.
-    *   Click the AirFetch icon in the menu bar.
+1.  **Prepare Camera**:
+    *   Turn on the **Wifi connect**
+    *   Set **PC Remote** on. (might differ based on model)
+    *   *Tip:* Join your studio or home WiFi connection for best performance.
+2.  **Launch AirFetch**:
+    *   Open the app; it sits in your menu bar.
 3.  **Sync**:
-    *   Select your camera from the detected list.
-    *   Choose a destination folder on your Mac.
-    *   Click **Sync** to start transferring.
+    *   Select your camera from the dropdown.
+    *   Pick a destination folder.
+    *   Hit **Sync**.
 
-## Troubleshooting
+## Support & Commercial Use
 
-### Camera not detected?
-*   Ensure your camera is in **PC Remote** mode (not Mass Storage or MTP).
-*   Verify both devices are on the exact same network subnet.
-*   Try toggling the camera's WiFi off and back on.
-*   Check that your camera is not currently connected to another device via USB.
+### Troubleshooting
+Encountering connection issues? Read our [**Troubleshooting Guide**](troubleshooting/TROUBLESHOOTING.md) for detailed solutions regarding firewalls, router settings, and camera configurations.
 
-### Connection timeouts or authentication failures?
-*   Check your firewall settings. AirFetch needs to communicate on:
-    *   UDP ports 1900 & 64321 (Discovery)
-    *   TCP port 15740 (Data Transfer)
-*   Ensure no other Sony imaging software (like Imaging Edge or Remote) is running and holding the connection.
-*   If using a VPN, try disabling it temporarily.
+### License
+AirFetch is commercial software provided under a proprietary license for both personal and professional use.
+See [LICENSE](LICENSE) for details.
 
-### Sync issues?
-*   Make sure the camera hasn't gone to sleep during the process.
-*   Verify you have write permissions for the selected destination folder.
+---
+
+<p align="center">
+  <sub>Copyright © 2026 AirFetch. All rights reserved. Not affiliated with Sony Corporation.</sub>
+</p>
