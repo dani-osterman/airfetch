@@ -7,7 +7,7 @@
 
 ### Support development
 
-If you find AirFetch useful, consider supporting development on GitHub Sponsors — contributions help us maintain compatibility across camera systems and fund future improvements. The app contains no ads.
+Consider sponsoring AirFetch. Contributions help us maintain the project and develop compatibility for other camera manufacturers (Canon, Nikon, Fuji, Panasonic).
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-brightgreen?style=flat&logo=github)](https://github.com/sponsors/dani-osterman)
 
@@ -21,6 +21,8 @@ If you find AirFetch useful, consider supporting development on GitHub Sponsors 
 <br>
 
 > **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
+
+<br>
 
 ## Supported Cameras
 
