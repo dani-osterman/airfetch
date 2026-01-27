@@ -15,10 +15,14 @@ Consider sponsoring AirFetch. Contributions help us maintain the project and dev
 
 ### Why AirFetch?
 
-| <img src="assets/diamond.svg" width="64"> | <img src="assets/wifi.svg" width="64"> | <img src="assets/apple.svg" width="64"> |
-| :--- | :--- | :--- |
-| **Reliability** | **Wireless Syncing** | **Native macOS Design** |
-| Stable pairing and file transfer. Native compatibility for the latest **Sony Alpha** cameras. | Automatic detection and **Smart Sync** (transfers new files only). Runs silently in the background. | Built with **Swift** and **SwiftUI**. A lightweight menu bar utility that fits the ecosystem. |
+#### <img src="assets/tick.svg" width="20"> Reliability
+Stable pairing and file transfer. Native compatibility for the latest **Sony Alpha** cameras.
+
+#### <img src="assets/wifi.svg" width="20"> Wireless Syncing
+Automatic detection and **Smart Sync** (transfers new files only). Runs silently in the background.
+
+#### <img src="assets/apple.svg" width="20"> Native macOS Design
+Built with **Swift** and **SwiftUI**. A lightweight menu bar utility that fits the ecosystem.
 
 <br>
 
