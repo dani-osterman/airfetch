@@ -19,7 +19,9 @@ Consider sponsoring AirFetch. Contributions help us maintain the project and dev
 | :---: | :---: | :---: |
 | **Reliability** | **Wireless Syncing** | **Native macOS Design** |
 | Stable pairing and file transfer. Native compatibility for the latest **Sony Alpha** cameras. | Automatic detection and **Smart Sync** (transfers new files only). Runs silently in the background. | Built with **Swift** and **SwiftUI**. A lightweight menu bar utility that fits the ecosystem. |
-<br>
+
+> [!NOTE]
+> This repository serves only as the public hub for AirFetch releases, issue tracking, and documentation.
 
 ## Supported Cameras
 
@@ -60,8 +62,7 @@ Encountering connection issues? Read our [**Troubleshooting Guide**](troubleshoo
 ### License
 AirFetch is free for personal and professional use. See [LICENSE](LICENSE) for full terms.
 
-> [!NOTE]
-> This repository serves only as the public hub for AirFetch releases, issue tracking, and documentation.
+---
 
 <p>
   <sub>Copyright © 2026 AirFetch. All rights reserved.</sub>
