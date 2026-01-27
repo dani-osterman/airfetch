@@ -18,6 +18,8 @@ If you find AirFetch useful, consider supporting development on GitHub Sponsors 
 | **Reliability** | **Wireless Syncing** | **Native macOS Design** |
 | Stable pairing and file transfer. Native compatibility for the latest **Sony Alpha** cameras. | Automatic detection and **Smart Sync** (transfers new files only). Runs silently in the background. | Built with **Swift** and **SwiftUI**. A lightweight menu bar utility that fits the ecosystem. |
 
+<br>
+
 > **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
 
 ## Supported Cameras
@@ -26,8 +28,8 @@ AirFetch currently supports **Sony cameras** capable of "PC Remote" functionalit
 
 Detection and transfers are powered by the **official Sony Camera Remote SDK**, ensuring compatibility with:
 
-**Alpha Series**: A1, A9 II/III, A7R IV+/V, A7S III, A7 IV, A7C/II/CR, A6700
-**Cinema Line**: The FX series (FX3, FX30, FX6) and FR7
+**Alpha Series**: A1, A9 II/III, A7R IV+/V, A7S III, A7 IV, A7C/II/CR, A6700<br>
+**Cinema Line**: The FX series (FX3, FX30, FX6) and FR7<br>
 **Vlog/Compact**: ZV-E1, ZV-E10 II, RX0 II
 
 ## Downloads
@@ -37,8 +39,6 @@ Detection and transfers are powered by the **official Sony Camera Remote SDK**, 
 - **Notarization:** Final signed & notarized DMG will be published later. RC builds may be unsigned.
 
 [**Download Latest Release**](https://github.com/goodkat/airfetch-gh/releases)
-
----
 
 ## Quick Start
 
