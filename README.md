@@ -43,7 +43,6 @@ Detection and transfers are powered by the **official Sony Camera Remote SDK**, 
 1.  **Prepare Camera**:
     *   Turn on the **Wifi connect**
     *   Set **PC Remote** on. (might differ based on model)
-    *   *Tip:* Join your studio or home WiFi connection for best performance.
 2.  **Launch AirFetch**:
     *   Open the app; it sits in your menu bar.
 3.  **Sync**:
