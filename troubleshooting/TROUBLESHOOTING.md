@@ -15,7 +15,7 @@ Having trouble with AirFetch? Here are solutions to common connection and sync i
 *   **Access Authentication**: On some newer Sony cameras, you must disable **Access Authen. Settings** (set to OFF) to allow AirFetch to connect without complex pairing, or ensure you have a pairing user/pass ready (AirFetch attempts to auto-pair).
 *   **USB Conflicts**: Check that your camera is not currently connected to another device via USB.
 
-### Connection timeouts or fails immediately?
+### Connection problems?
 *   **Firewall & VPN**:
     *   Disable VPNs temporarily to rule out routing issues.
     *   Check that AirFetch is listed in your mac firewall settings + allow if prompted.
