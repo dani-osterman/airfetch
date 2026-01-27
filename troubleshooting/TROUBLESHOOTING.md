@@ -33,6 +33,6 @@ Having trouble with AirFetch? Here are solutions to common connection and sync i
 
 ## Still need help?
 
-If you cannot resolve the issue, please [open an issue](https://github.com/goodkat/airfetch-gh/issues) on our GitHub tracker with the following details:
+If you cannot resolve the issue, please [open an issue](https://github.com/dani-osterman/airfetch/issues) on our GitHub tracker with the following details:
 1.  Camera Model (e.g., Sony A7 IV)
 2.  macOS Version
