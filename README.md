@@ -62,8 +62,8 @@ AirFetch is under a commercial license, but distributed free for both personal a
 See [LICENSE](LICENSE) for details.
 
 ---
-
 > **Note**: This repository serves only as the public hub for AirFetch releases, issue tracking, and documentation.
+---
 
 <p>
   <sub>Copyright © 2026 AirFetch. All rights reserved.</sub>
