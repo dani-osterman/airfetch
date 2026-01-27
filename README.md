@@ -4,6 +4,8 @@
 
 > **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
 
+[![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/goodkat/airfetch-gh/releases)
+
 ## Why AirFetch?
 
 ### 🚀 Professional Reliability
