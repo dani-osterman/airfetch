@@ -2,8 +2,6 @@
 
 **AirFetch** is a macOS menu bar utility for wireless file syncing from camera to your mac. Currently exclusively supporting **Sony cameras**, it delivers reliability, ease-of-use, and seamless integration into your photography workflow.
 
-> **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
-
 [![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/goodkat/airfetch-gh/releases)
 
 
@@ -18,7 +16,9 @@ If you find AirFetch useful, consider supporting development on GitHub Sponsors 
 | <img src="assets/diamond.svg" width="64"> | <img src="assets/wifi.svg" width="64"> | <img src="assets/apple.svg" width="64"> |
 | :--- | :--- | :--- |
 | **Reliability** | **Wireless Syncing** | **Native macOS Design** |
-| Modular architecture with stable pairing. Native compatibility for the latest **Sony Alpha** cameras. | Automatic detection and **Smart Sync** (transfers new files only). Runs silently in the background. | Built with **Swift** and **SwiftUI**. A lightweight menu bar utility that fits the ecosystem. |
+| Stable pairing and file transfer. Native compatibility for the latest **Sony Alpha** cameras. | Automatic detection and **Smart Sync** (transfers new files only). Runs silently in the background. | Built with **Swift** and **SwiftUI**. A lightweight menu bar utility that fits the ecosystem. |
+
+> **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
 
 ## Supported Cameras
 
@@ -26,14 +26,11 @@ AirFetch currently supports **Sony cameras** capable of "PC Remote" functionalit
 
 Detection and transfers are powered by the **official Sony Camera Remote SDK**, ensuring compatibility with:
 
-- **Alpha Series**: A1, A9 III, A7R V, A7 IV, A7S III
-- **Cinema Line**: FX3, FX30
-- **Vlog Series**: ZV-E1, ZV-E10
-- **RX Series**: RX100 VII, RX0 II
-
 ## Downloads
 
-Support for Apple Silicon macOS.
+- **Supported platforms:** macOS 13.0 or later (Apple Silicon)
+- **Package:** DMG for Apple Silicon available from the Releases page; universal builds are not provided at this time
+- **Notarization:** Final signed & notarized DMG will be published later. RC builds may be unsigned.
 
 [**Download Latest Release**](https://github.com/goodkat/airfetch-gh/releases)
 
