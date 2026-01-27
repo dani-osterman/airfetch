@@ -2,6 +2,8 @@
 
 **AirFetch** is a macOS menu bar utility for wireless file syncing from camera to your mac. Currently exclusively supporting **Sony cameras**, it delivers reliability, ease-of-use, and seamless integration into your photography workflow.
 
+> **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
+
 [![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/goodkat/airfetch-gh/releases)
 
 
@@ -11,14 +13,12 @@ If you find AirFetch useful, consider supporting development on GitHub Sponsors 
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-brightgreen?style=flat&logo=github)](https://github.com/sponsors/dani-osterman)
 
-> **Note**: This repository serves as the public hub for AirFetch releases, issue tracking, and documentation.
-
 ## Why AirFetch?
 
-| <img src="https://img.icons8.com/fluency/96/server.png" width="50" /> | <img src="https://img.icons8.com/fluency/96/wifi-router.png" width="50" /> | <img src="https://img.icons8.com/fluency/96/mac-os.png" width="50" /> |
+| <img src="assets/diamond.gif" width="48"> | <img src="assets/wifi.gif" width="48"> | <img src="assets/laptop.gif" width="48"> |
 | :--- | :--- | :--- |
-| **Professional Reliability** | **Wireless Syncing** | **Native macOS Design** |
-| Modular architecture with stable pairing. Native compatibility for the latest **Sony Alpha** cameras. | Automatic network detection and incremental sync. Saves bandwidth by only transferring new files. | Built with **Swift** and **SwiftUI**. Lightweight, fast, and lives quietly in your menu bar. |
+| **Reliability** | **Wireless Syncing** | **Native macOS Design** |
+| Modular architecture with stable pairing. Native compatibility for the latest **Sony Alpha** cameras. | Automatic detection and **Smart Sync** (transfers new files only). Runs silently in the background. | Built with **Swift** and **SwiftUI**. A lightweight menu bar utility that fits the ecosystem. |
 
 <br>
 
