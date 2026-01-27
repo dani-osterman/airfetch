@@ -60,9 +60,8 @@ Encountering connection issues? Read our [**Troubleshooting Guide**](troubleshoo
 ### License
 AirFetch is free for personal and professional use. See [LICENSE](LICENSE) for full terms.
 
----
-> **Note**: This repository serves only as the public hub for AirFetch releases, issue tracking, and documentation.
----
+> [!NOTE]
+> This repository serves only as the public hub for AirFetch releases, issue tracking, and documentation.
 
 <p>
   <sub>Copyright © 2026 AirFetch. All rights reserved.</sub>
