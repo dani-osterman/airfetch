@@ -36,7 +36,7 @@ Detection and transfers are powered by the **official Sony Camera Remote SDK**, 
 - **Package:** DMG for Apple Silicon available from the Releases page; universal builds are not provided at this time
 - **Notarization:** Final signed & notarized DMG will be published later. RC builds may be unsigned.
 
-[**Download Latest Release**](https://github.com/goodkat/airfetch-gh/releases)
+[**Download Latest Release**](https://github.com/dani-osterman/airfetch/releases)
 
 ## Quick Start
 
