@@ -24,7 +24,7 @@ Supported models include:
 
 ## Downloads
 
-Support for Apple Silicon and Intel macOS.
+Support for Apple Silicon macOS.
 
 [**Download Latest Release**](https://github.com/goodkat/airfetch-gh/releases)
 
