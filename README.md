@@ -13,7 +13,6 @@ AirFetch is built on a modular architecture designed to support multiple camera 
 Forget cables. AirFetch automatically detects your camera on the network and backs up your shots with ease.
 - **Smart Incremental Sync**: Only transfers new files, saving time and bandwidth.
 - **Background Operation**: Lives quietly in your menu bar until you need it.
-- **Security-Scoped Storage**: Robust macOS permission handling ensures your data goes exactly where you want it.
 
 ### 📷 Native macOS Design
 Built efficiently with Swift and SwiftUI, AirFetch feels like a part of the operating system—lightweight, fast, and beautiful.
@@ -56,11 +55,11 @@ Support for Apple Silicon macOS.
 Encountering connection issues? Read our [**Troubleshooting Guide**](troubleshooting/TROUBLESHOOTING.md) for detailed solutions regarding firewalls, router settings, and camera configurations.
 
 ### License
-AirFetch is commercial software provided under a proprietary license for both personal and professional use.
+AirFetch is under a commercial license, but distributed free for both personal and professional use.
 See [LICENSE](LICENSE) for details.
 
 ---
 
 <p align="center">
-  <sub>Copyright © 2026 AirFetch. All rights reserved. Not affiliated with Sony Corporation.</sub>
+  <sub>Copyright © 2026 AirFetch. All rights reserved.</sub>
 </p>
