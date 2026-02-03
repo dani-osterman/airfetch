@@ -4,7 +4,7 @@
 
 **AirFetch** is a macOS menu bar utility for wireless file syncing from camera to your mac. Currently exclusively supporting **Sony cameras**, it delivers reliability, ease-of-use, and seamless integration into your photography workflow.
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/dani-osterman/airfetch/releases)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/dani-osterman/airfetch/releases/tag/v.0.1.0-stable)
 
 ### Support development
 
@@ -34,9 +34,9 @@ Detection and transfers are powered by the **official Sony Camera Remote SDK**, 
 
 - **Supported platforms:** macOS 13.0 or later (Apple Silicon)
 - **Package:** DMG for Apple Silicon available from the Releases page; universal builds are not provided at this time
-- **Notarization:** Final signed & notarized DMG will be published later. RC builds may be unsigned.
+- **Notarization:** Final signed & notarized DMG will be published later. Builds may be unsigned.
 
-[**Download Latest Release**](https://github.com/dani-osterman/airfetch/releases)
+[**See all releases**](https://github.com/dani-osterman/airfetch/releases)
 
 ## Quick Start
 
