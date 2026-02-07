@@ -13,7 +13,7 @@ Having trouble with AirFetch? Here are solutions to common connection and sync i
     *   *Note: Older models (e.g., A7 III, A6000 series before A6700) or cameras relying on the "Smart Remote Control" PlayMemories app are NOT supported.*
 *   **Network Match**: Verify both your Mac and camera are connected to the exact same WiFi network.
 *   **Access Authentication**: On some newer Sony cameras, you must disable **Access Authen. Settings** (set to OFF) to allow AirFetch to connect without complex pairing, or ensure you have a pairing user/pass ready (AirFetch attempts to auto-pair).
-*   **USB Conflicts**: Check that your camera is not currently connected to another device via USB.
+*   **USB Conflicts**: Check that your camera is not connected via USB (we are working on feature that allows you to use the app even with cable, but currently not supported.)
 
 ### Connection problems?
 *   **Firewall & VPN**:
