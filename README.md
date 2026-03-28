@@ -35,7 +35,7 @@ Detection and transfers are powered by the **official Sony Camera Remote SDK**, 
 ## Downloads
 
 - **Supported platforms:** macOS 13.0 or later (Apple Silicon)
-- **Package:** DMG for Apple Silicon available from the Releases page; universal builds are not provided at this time
+- **Package:** DMG for Apple Silicon available from the Releases page.
 - **Notarization:** Final signed & notarized DMG will be published later. Builds may be unsigned.
 
 [**See all releases**](https://github.com/dani-osterman/airfetch/releases)
