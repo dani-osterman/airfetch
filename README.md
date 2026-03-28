@@ -1,5 +1,7 @@
 ![Banner](assets/Banner.png)
 
+### ⚠️ Currently not in active development due to other projects and limitiations in Sony SDk. Might get updated later.
+
 # AirFetch
 
 **AirFetch** is a macOS menu bar utility for wireless file syncing from camera to your mac. Currently exclusively supporting **Sony cameras**, it delivers reliability, ease-of-use, and seamless integration into your photography workflow.
