@@ -8,12 +8,6 @@
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/dani-osterman/airfetch/releases/tag/v.0.1.0-stable)
 
-### Support development
-
-Consider sponsoring AirFetch. Contributions help us maintain the project and develop compatibility for other camera manufacturers (Canon, Nikon, Fuji, Panasonic).
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-brightgreen?style=flat&logo=github)](https://github.com/sponsors/dani-osterman)
-
 ### Why AirFetch?
 
 | <img src="assets/tick.svg" width="64"> | <img src="assets/wifi.svg" width="64"> | <img src="assets/apple.svg" width="64"> |
