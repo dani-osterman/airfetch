@@ -1,6 +1,6 @@
 ![Banner](assets/Banner.png)
 
-### ⚠️ Currently not in active development due to other projects and limitiations in Sony SDK for XML transfer. Might get updated later.
+### ⚠️ Currently not in active development due to other projects and limitiations in Sony SDK for XML transfer. Might release source code later.
 
 # AirFetch
 
